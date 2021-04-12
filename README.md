@@ -1,4 +1,4 @@
-# mockslide.github.io
+# michaeldv275.github.io
 My Github hosting for Website
 
 This is a english proposed design for the customate.co.jp website.
